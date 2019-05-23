@@ -1,15 +1,10 @@
-[996.ICU](https://996.icu/#/en_US)
+WUHAN.996
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
 * [中文版](./README_CN.md)
 
-The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
-
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
-[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
+WUHAN.996 refers to "WUHAN's working mode is 996". In the context of wuhan's rapid development, it provides reference for local college students and job seekers to say goodbye to the ICU.
 
 
 Related press coverage:
@@ -33,8 +28,8 @@ What can I do?
 ---
 
 - Update this [list](blacklist/README.md) with evidence to help every worker.  [Third party perfect list channel](https://www.996action.com/index.php/889799)
-- Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-- License your awesome projects with the [Anti 996 License](LICENSE).  
+- Add this [badge](externals/instruction.md) to your project to support WUHAN.996.  
+- License your awesome projects with the [WUHAN.996 License](LICENSE).  
 - Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
 - Go home at 6 pm without feeling sorry.
 
@@ -58,7 +53,7 @@ However, as a result many anonymous employees says that there is a **list** of d
 Principles and purposes
 ---
 
-* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
+* WUHAN.996 is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
 * This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
@@ -70,7 +65,7 @@ Principles and purposes
 Expanding influence
 ---
 
-Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+Please feel free to [translate WUHAN.996's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 Community powers
 ---
@@ -97,13 +92,13 @@ So I **personally** decided to switch it off, not by GitHub or others.
 License
 ---
 
-[Anti-996 License](LICENSE)
+[WUHAN.996 License](LICENSE)
 
  - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
  - See a [full list of projects](awesomelist/README.md) under Anti-996 License
 
- - This draft is adapted from the MIT license. For a more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
- - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
+ - This draft is adapted from the MIT license. For a more detailed explanation, please see [Wiki](https://github.com/openive/WUHAN.996/wiki). This license is designed to be compatible with all major open source licenses.  
+ - For law professionals or anyone who is willing to contribute to future version directly, please go to [WUHAN.996-1.0](https://github.com/openive/WUHAN.996). Thank you.
  
 Contact
 ---
