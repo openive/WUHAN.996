@@ -53,8 +53,7 @@ However, as a result many anonymous employees says that there is a **list** of d
 Principles and purposes
 ---
 
-* WUHAN.996 is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
-
+* WUHAN 996 is an initiative initiated by numerous IT practitioners in WUHAN, China, and we welcome people from other fields and countries to join the discussion.
 * This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
 * It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
@@ -85,8 +84,8 @@ Community powers
 Where are the issues?
 ---
 
-Even with interaction limits on, the issues area was totally out of control.
-So I **personally** decided to switch it off, not by GitHub or others.
+Even with interaction constraints, the problem domain is completely out of control. 
+The world is not at peace without question.
 
 
 License
