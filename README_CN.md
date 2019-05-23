@@ -4,13 +4,7 @@
 
 * [English version](./README.md)
 
-`WUHAN.996`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
-
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
-[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
-
+WUHAN.996指的是“武汉的工作模式是996”。在武汉快速发展的背景下，它为当地大学生和求职者向ICU说再见提供了参考。
 
 相关报道
 ---
@@ -30,7 +24,7 @@
 
 我能做什么？
 ---
-- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。[为不熟悉GitHub劳动者准备的提交渠道](https://www.996action.com/index.php/889799)
+- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。[为不熟悉GitHub劳动者准备的提交渠道
 - 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
 - 为你的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的[议案](proposal/README.md)。
@@ -55,7 +49,7 @@
 
 * 首先需要申明的是这不是一个政治运动，我们每个人都坚定维护劳动法，但我们同时要求雇主也要尊重雇员的合法权益。
 
-* 996.ICU 是中国众多的 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
+* WUHAN.996 是中国武汉众多的 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
 
 * 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
 
@@ -97,8 +91,7 @@
 Issues 去哪了？
 ---
 
-即使有互动限制，Issues 区依然完全失去了控制。
-因此我**个人**决定关闭 Issues，这与 GitHub 或其他方面无关。
+即使有交互限制，问题领域也完全失控。没有问题难道天下太平了。
 
 License
 ---
