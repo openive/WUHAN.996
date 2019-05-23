@@ -88,10 +88,6 @@ WUHAN.996指的是“武汉的工作模式是996”。在武汉快速发展的�
   
   - [699cn](https://github.com/996-699/996.699) 一键存证微信小程序，免安装永久免费，完全公益性质。一键采集员工当前经纬度和打卡时间存证到服务器，未来目标是期望更多志愿者加入团队，建设成为基于分布式账本技术的存证平台，只要地球上还有程序员，证据就永远存在。
  
-Issues 去哪了？
----
-
-即使有交互限制，问题领域也完全失控。没有问题难道天下太平了。
 
 License
 ---
@@ -102,3 +98,14 @@ License
  - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
  - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
  - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
+ 
+ 
+ ## 996 的公司名单
+
+[![Feature Requests](http://feathub.com/openive/WUHAN.996?format=svg)](http://feathub.com/openive/WUHAN.996)
+
+## 添加公司
+
+请点击下面的链接，投票或添加新公司，我会统一处理。添加新公司请注明工作地点。如果是国内公司，请加上公司中文名（比如：`Xiaomi (小米)`）。
+
+[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](https://feathub.com/openive/WUHAN.996)
