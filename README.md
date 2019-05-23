@@ -100,7 +100,7 @@ You can reach me by [E-mail](openive@qq.com) if you need.
 
 ## A list of 996 companies
 
-[![Feature Requests](http://feathub.com/openive/WUHAN.995?format=svg)](http://feathub.com/openive/WUHAN.995)
+[![Feature Requests](http://feathub.com/openive/WUHAN.995?format=svg)](http://feathub.com/openive/WUHAN.996)
 
 ## Add the company
 
