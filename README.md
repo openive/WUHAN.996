@@ -81,12 +81,6 @@ Community powers
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
 
-Where are the issues?
----
-
-Even with interaction constraints, the problem domain is completely out of control. 
-The world is not at peace without question.
-
 
 License
 ---
@@ -102,4 +96,14 @@ License
 Contact
 ---
 
-You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+You can reach me by [E-mail](openive@qq.com) if you need.
+
+## A list of 996 companies
+
+[![Feature Requests](http://feathub.com/openive/WUHAN.995?format=svg)](http://feathub.com/openive/WUHAN.995)
+
+## Add the company
+
+Please click the link below, vote or add new company, I will deal with it uniformly. Please specify the location of the new company. If is the domestic company, please add company name (for example: ` Xiaomi (millet) `).
+
+[![Feature Requests](https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png)](https://feathub.com/openive/WUHAN.996)
